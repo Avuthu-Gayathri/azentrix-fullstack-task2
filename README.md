@@ -63,7 +63,7 @@ Project screenshots are available in the screenshots folder.
 
 Loom Video:
 
-
+https://www.loom.com/share/78b2b92656564b3c8054d2904ac16137
 
 ## How to Run
 
